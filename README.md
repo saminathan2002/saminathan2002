@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Advanced Embedded Systems**
 
-- 📫 How to reach me **saminathantnj@gmail.com**
+- 📫 How to reach me **saminathantnj19@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
